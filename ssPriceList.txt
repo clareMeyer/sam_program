@@ -1,0 +1,46 @@
+SNS Code,Product Name,Purchase Rate,Case Price,Dozen Price,Piece Price,Product Category
+00708,Comfort Colors Garment Dyed Heavyweight Ringspun Short Sleeve Shirt - 1717,60,4.49,5.16,5.83,T-Shirt
+70408,Comfort Colors Garment Dyed Tank with a Pocket - 9330,72,5.20,5.98,6.76,T-Shirt
+08108,Comfort Colors Garment Dyed Heavyweight Ringspun Long Sleeve T-Shirt - 6014,48,7.19,8.26,9.34,T-Shirt
+18508,Comfort Colors Garment Dyed Heavyweight Ringspun Long Sleeve Pocket T-Shirt - 4410,48,8.22,9.45,10.68,T-Shirt
+70408,Comfort Colors Garment Dyed Tank with a Pocket - 9330,72,5.20,5.98,6.76,T-Shirt
+21595,"Sportsman Pom-Pom 12"" Knit Beanie - SP15",144,2.10,2.42,2.73,Headwear
+30076,Independent Trading Co. Special Blend Blanket - INDBKTSB,12,13.27,15.26,17.25,Blanket
+85360,Gildan DryBlend Stadium Fleece Blanket - 12900,12,7.23,8.31,9.39,Blanket
+14366,Liberty Bags Alpine Fleece Micro Mink Sherpa Blanket - 8712,12,15.70,18.06,20.41,Blanket
+73503,Boxercraft Flannel Blanket - FB250,12,14.32,16.46,18.61,Blanket
+84066,Liberty Bags Alpine Fleece Mink Touch Luxury Blanket - 8721,24,12.17,14.00,15.82,Blanket
+84415,Colorado Clothing Cuddle Fleece Blanket - 5066,24,13.48,15.50,17.52,Blanket
+85215,Colorado Clothing Fleece Sport Blanket - 5500,24,6.79,7.80,8.82,Blanket
+85515,Colorado Clothing Sport Blanket Strap - STRAP,500,0.98,1.12,1.27,Blanket
+85815,Colorado Clothing Waterproof RecPak Blanket - 0820,12,16.19,18.61,21.04,Blanket
+09985,Badger Pro Mesh Reversible Tank - 8529,36,6.39,7.35,8.31,Athletic Wear
+34100,Hanes X-Temp™ Three-Quarter Sleeve Baseball T-Shirt - 42BA,36,5.34,6.14,6.94,Athletic Wear
+04838,LAT Adult Baseball Fine Jersey Tee - 6930,36,6.09,7.00,7.92,Athletic Wear
+04838,LAT Adult Baseball Fine Jersey Tee - 6930,36,6.25,7.19,8.13,Athletic Wear
+04884,Champion Raglan Baseball T-Shirt - T137,48,6.09,7.00,7.92,Athletic Wear
+10835,Jerzees Dri-Power Sport Women's Closed Hole Mesh Sport Shirt - 441WR,24,10.81,12.43,14.05,Polo
+09485,C2 Sport Performance Sport Shirt - 5300,72,10.02,11.52,13.03,Polo
+10234,Augusta Sportswear Wicking Mesh Sport Shirt - 5095,24,10.83,12.45,14.08,Polo
+14485,Badger Hook Performance Sport Shirt - 3344,36,16.30,18.75,21.19,Polo
+62453,Adidas Golf Heather Colorblock Polo - A145,24,27.35,31.45,35.56,Polo
+63253,Adidas Climacool® Performance Polo - A166,24,31.50,36.23,40.95,Polo
+17853,Adidas Golf ClimaLite® Basic Performance Pique Polo - A130,24,19.14,22.01,24.88,Polo
+17153,Adidas ClimaLite® Textured Polo - A170,24,25.43,29.24,33.06,Polo
+81207,All Sport Performance 3 Button Polo - M1809,24,9.16,10.53,11.91,Polo
+86983,FeatherLite Microfleece Unisex Quarter-Zip Pullover - 3351,12,14.20,16.33,18.46,Outerwear
+63715,Colorado Clothing Sport Fleece Quarter-Zip Pullover - 9630,12,12.35,14.20,16.05,Outerwear
+80783,Sierra Pacific Quarter-Zip Fleece Pullover - 3051,12,12.68,14.58,16.48,Outerwear
+64715,Colorado Clothing Del Norte Hooded Jacket - 7785,24,30.25,34.78,39.32,Outerwear
+64348,Stormtech Tritium Shell - TRS-1,30,33.79,38.86,43.93,Outerwear
+86352,Weatherproof 32 Degrees Melange Rain Jacket - 17604,12,26.50,30.48,34.45,Outerwear
+63234,Augusta Sportswear Packable Half-Zip Pullover - 3130,24,13.08,15.04,17.00,Outerwear
+23808,Comfort Colors Garment Dyed Ringspun Crewneck Sweatshirt - 1566,24,14.16,16.28,18.40,Sweatshirt
+21060,Gildan Heavy Blend Crewneck Sweatshirt - 18000,36,4.60,5.29,5.98,Sweatshirt
+21000,Hanes Ecosmart Crewneck Sweatshirt - P160,36,4.60,5.29,5.98,Sweatshirt
+22035,Jerzees NuBlend Hooded Sweatshirt - 996MR,24,9.02,10.37,11.73,Sweatshirt
+20760,Gildan DryBlend Double Pique Long Sleeve Sport Shirt - 72900,36,7.40,8.51,9.62,Polo
+15383,FeatherLite Value Cationic Sport Shirt - 0110,12,7.54,7.54,7.54,Polo
+24695,Team Sportsman Unstructured Cap - AH35,144,3.15,3.15,3.15,Headwear
+70266,Liberty Bags Cinch Carry-All - 5103,144,0.90,0.90,0.90,Accessories
+82866,Liberty Bags Insulated Can Cozy - FT001,180,0.61,0.61,0.61,Accessories 
